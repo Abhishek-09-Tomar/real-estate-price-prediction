@@ -3,7 +3,7 @@
 This project predicts house prices using machine learning based on features like area, number of bedrooms, bathrooms, and more.
 
 🔗 **GitHub Repository:**  
-[https://github.com/Abhishek-09-Tomar/Data-Science-with-AI-and-ML](https://github.com/Abhishek-09-Tomar/real-estate-price-prediction)
+[https://github.com/Abhishek-09-Tomar/real-estate-price-prediction]
 
 ---
 
