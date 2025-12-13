@@ -20,7 +20,7 @@ This project predicts house prices using machine learning based on features like
 
 # Note : i'm not building UI for that project may be build in future if it is possible. - By Abhishek Tomar.
 ```
-Data-Science-with-AI-and-ML/
+real-estate-price-prediction/
 │
 ├── Evergreen_Estates/               # App folder
 │   ├── app.py                       # Flask server
@@ -58,10 +58,10 @@ Data-Science-with-AI-and-ML/
 
 ```bash
 # Clone the repo
-git clone https://github.com/Abhishek-09-Tomar/Data-Science-with-AI-and-ML.git
+git clone https://github.com/Abhishek-09-Tomar/real-estate-price-prediction.git
 
 # Navigate to project
-cd Data-Science-with-AI-and-ML/Evergreen_Estates
+cd real-estate-price-prediction/Evergreen_Estates
 
 # Install dependencies
 pip install -r requirements.txt
